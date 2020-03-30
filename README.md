@@ -4,7 +4,7 @@
 # Tampilan Form Tambah Anggota
 #![AltText](https://github.com/najmi10/Modul-UKL-3-4/blob/master/tambah%20anggota.png "Hasil Dua")
 # Tampilan Buku
-#![AltText](https://github.com/najmi10/Modul-UKL-3-4/blob/master/tampilan%20buku.png "Hasil Tiga")
+#![AltText](https://github.com/najmi10/Modul-UKL-3-4/blob/master/tampilan%20buku%20baru.png "Hasil Tiga")
 # Tampilan Form Tambah Buku
 #![AltText](https://github.com/najmi10/Modul-UKL-3-4/blob/master/tambah%20buku.png "Hasil Empat")
 # Tampilan Peminjaman
